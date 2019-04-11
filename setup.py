@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
     name='versescraper',
     packages=['versescraper'],
-    version='0.1',
+    version='0.1.1',
     license='MIT',
     description='Fetch lyrics for an artist split into individual verses',
     author='Robert Firstman',
