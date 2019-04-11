@@ -9,7 +9,7 @@ setup(
     author_email='firstmanrobert@gmail.com',
     url='https://github.com/RFirstman/versescraper',
     download_url='https://github.com/RFirstman/versescraper/archive/v0.1.tar.gz',
-    keywords=["lyrics", "genius", "verse", "verses"]
+    keywords=["lyrics", "genius", "verse", "verses"],
     install_requires=['lyricsgenius'],
     classifiers=[
         'Development Status :: 3 - Alpha',
