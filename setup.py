@@ -2,13 +2,13 @@ from distutils.core import setup
 setup(
     name='versescraper',
     packages=['versescraper'],
-    version='0.1',
+    version='1.0',
     license='MIT',
     description='Fetch lyrics for an artist split into individual verses',
     author='Robert Firstman',
     author_email='firstmanrobert@gmail.com',
     url='https://github.com/RFirstman/versescraper',
-    download_url='https://github.com/RFirstman/versescraper/archive/v0.1.tar.gz',
+    download_url='https://github.com/RFirstman/versescraper/archive/v1.0.tar.gz',
     keywords=["lyrics", "genius", "verse", "verses"],
     install_requires=['lyricsgenius'],
     classifiers=[
