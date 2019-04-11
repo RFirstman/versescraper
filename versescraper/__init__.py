@@ -1,6 +1,6 @@
 import sys
 assert sys.version_info[0] == 3, "LyricsGenius requires Python 3"
-from versescraper import VerseScraper
+from versescraper.verse_scraper import VerseScraper
 
 """A library that allows for individual song verses to be fetched for artists."""
 
